@@ -1,0 +1,61 @@
+
+h1{
+    background-color: hotpink;
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+#navbar{
+    background-color: aqua;
+    width: 1000px;
+    height: 50px;
+    position: sticky;
+    top: 0;
+
+}
+#navbar div {
+    height: 50px;
+    display: inline-block;
+    padding: 20px;
+}
+.class{
+    width:1000px;
+    background-color:  burlywood;
+
+}
+
+
+.class div img{
+    width: 300px;
+    height: 300px;
+    float: right;
+    padding-left: 10px;
+}
+.class div p{
+    text-align: justify;
+    padding: 10px;
+    margin: auto;
+}
+#form{
+    background-color:lightblue;
+    width: 1000px;
+    height:200px;
+    
+}
+#form h2{
+    text-align: center;
+    padding-top: 20px;
+}
+#form label{
+    font-size: x-large;
+    font-weight: bold;
+    padding-left: 200px;
+
+}
+
+
+
+
+
